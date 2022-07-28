@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DocoWasHere</h1>
+<h1 align="center">Hi 👋, I'm RyloWasHere</h1>
 <h3 align="center">I am a LUA, C#, Discord.js, developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=docowashere&label=Profile%20views&color=0e75b6&style=flat" alt="docowashere" /> </p>
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **lua, c#, Discord.js**
 
-- 📫 How to reach me **Doco#3863**
+- 📫 How to reach me **Rylo#6666**
 
 - 📄 Know about my experiences [After the summer break I am going to college to learn Computer Games Development](After the summer break I am going to college to learn Computer Games Development)
 
